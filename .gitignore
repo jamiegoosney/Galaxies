@@ -1,0 +1,6 @@
+# The repository will ignore the Milky Way information, the data subdirectory of analysis/, and all .txt files
+# The galaxies directory includes: /c/shell-data/galaxies: analysis/  andromeda.sh  ark120.sh  galaxy_info.txt  gsn069.sh  iras13224-3809.sh  milkyway.sh  re-j1034-396.sh
+
+milkyway/*
+analysis/data/*
+*.txt
